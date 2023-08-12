@@ -1,0 +1,10 @@
+{"name":"Escritorio","description":"do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam,_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo","weight":99.41765662025524,"price":154.3612204444403}
+{"name":"Escritorio","description":"","weight":147.1474981043363,"price":181.15263415553812}
+{"name":"Lampara_de_mesa","description":"amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua.","weight":58.16006117838484,"price":54.563552810145424}
+{"name":"Sofa","description":"amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam,_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip","weight":133.7378949625666,"price":173.37631938891425}
+{"name":"Archivador","description":"amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam,_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip","weight":43.13994412622142,"price":28.254948282784547}
+{"name":"Estanteria","description":"eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam,_quis_nostrud","weight":42.7588036145303,"price":60.484357773160454}
+{"name":"Archivador","description":"incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam,_quis","weight":102.6932107708919,"price":31.409469689951116}
+{"name":"Escritorio","description":"","weight":50.51642617867927,"price":16.379791108453198}
+{"name":"Lampara_de_mesa","description":"amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim","weight":73.7263749928732,"price":46.56229037657905}
+{"name":"Armario","description":"tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam,_quis","weight":85.74842364299798,"price":199.5206357222552}
